@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Đạt Lê Đức</h1>
 <h3 align="center">A passionate game developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/1ylOHgLDKw7eD8WgoB/giphy.gif?cid=ecf05e47lz9nx6u21k6pv7ui7j3645r0atqkxkuz2zoi7y6m&ep=v1_gifs_search&rid=giphy.gif&ct=g">
