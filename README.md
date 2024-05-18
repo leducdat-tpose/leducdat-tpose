@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leducdat-tpose&label=Profile%20views&color=0e75b6&style=flat" alt="leducdat-tpose" /> </p>
 
-- 🔭 I’m currently working on **ZeldaRPG**
+- 🔭 I’m currently working on **SuperMario**
 
 - 🌱 I’m currently learning **at Information of Technology University, Ho Chi Minh City, Vietnam**
 
