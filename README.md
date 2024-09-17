@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **KingdomRush**
 
-- 🌱 I’m currently learning **at Information of Technology University, Ho Chi Minh City, Vietnam**
+- 🌱 I’m currently learning **at University of Information Technology, Ho Chi Minh City, Vietnam**
 
 - 📫 How to reach me **22520213@gm.uit.edu.vn**
 
